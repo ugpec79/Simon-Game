@@ -1,0 +1,24 @@
+.r{
+    height: 90px;
+    width:90px;
+    background-color: red;
+
+}
+.g{
+    height: 90px;
+    width:90px;
+    background-color: green;
+}
+.b{
+    height: 90px;
+    width:90px;
+    background-color: blue;
+}
+.y{
+    height: 90px;
+    width:90px;
+    background-color: yellow;
+}
+.pressed{
+    visibility: collapse;
+}
